@@ -1,6 +1,6 @@
 # Anthrobot🤖
    Official Entry of Team Anthrobot, from SRM Institute of Science and Technology, Kattankulathur, for the RoboEx Hackathon.
-![Screenshot (801)](https://user-images.githubusercontent.com/71955737/102581900-7eb12280-4127-11eb-97d3-8b5940c8d476.png )
+
 ## Links to RoboEx Hacathon🔗
 * [Official Website]()
 * [Instagram](https://www.instagram.com/avianworkshops/)
