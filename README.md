@@ -14,9 +14,9 @@ Anthrobot!!
 * Oct 22-25: Idea and Abstract Presentation
 * Nov 7: Submission of Project
 ## About Anthrobot 🔧
-What:
-Why:
-How:
+### What:
+### Why:
+### How:
 ## Technology Stack 💻
 * HTML
 * CSS
