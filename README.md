@@ -30,3 +30,8 @@ How:
 ## Nominations for Category/Sponsor Prizes 🤝
 * 1st Prize
 * 2nd Prize
+## Collaborators 🤖
+* [Souvik Dey](https://github.com/Souvikdey10) 
+* [N. Aditya Sai](https://github.com/aadityasai37) 
+* [Gyanesh Samanta](https://github.com/Gyanesh-Samanta123) - Team Lead
+* [Aman Sharma]
