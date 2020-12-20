@@ -54,7 +54,7 @@ Anthrobot works on the Rasberry Pi processor that acts as its brain. The Anthrob
 * 2nd Prize
 
 ## Collaborators 🤖
-* [Aman Sharma]
+* [Aman Sharma](https://github.com/amansharma27) 
 * [Gyanesh Samanta](https://github.com/Gyanesh-Samanta123) - Team Lead
 * [N. Aditya Sai](https://github.com/aadityasai37) 
 * [Souvik Dey](https://github.com/Souvikdey10) 
