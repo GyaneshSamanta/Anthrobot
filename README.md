@@ -28,8 +28,8 @@ Our proposed solution, is to use Industry 4.0 technology robots to carry out the
 
 ## About Anthrobot 🔧
 
-![front View](model/front.png)
-![side View](model/side%20view.png)
+![front View](Model/front.png)
+![side View](Model/side%20view.png)
 ### What:
 
 Anthrobot is a robot with dimensions (1ft x 2ft x 4ft). It is designed and fabricted to work in high temperatures, specifically in the areas where the threat to human life is maximum. Anthrobot can perform tasks as: Temperatue checking, XRF Spectroscopy, getting the readings from the gauges, etc. The robot is fabricated to withstand the high temperatures that can go upto 2400 degrees on celcius scale.
