@@ -7,6 +7,7 @@
 * [Twitter](https://twitter.com/intent/tweet?text=RoboEx%20Hackathon%20from%20dreadnought%20robotics%20@%20&url=https://dare2compete.com/o/h50Plze)
 
 ## Track and Problem Statement 🚧
+To ensure safety of people working in the Blast Furnaces by replacing all tasks carried out by humans with Robots. 
 
 * Open Innovation
 * Hack for Good
@@ -56,7 +57,7 @@ Anthrobot is powered by Rasberry Pi that acts as its brain. The Anthrobot is pro
 * 1st Prize
 * 2nd Prize
 
-## Collaborators 🤖
+## Team Anthrobot 
 * [Aman Sharma](https://github.com/amansharma27) 
 * [Gyanesh Samanta](https://github.com/Gyanesh-Samanta123) - Team Lead
 * [N. Aditya Sai](https://github.com/aadityasai37) 
