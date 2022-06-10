@@ -1,5 +1,5 @@
 # Team Anthrobot for RoboEx Hackathon🤖
-   Official Entry of Team Anthrobot, from SRM Institute of Science and Technology, Kattankulathur, to RoboEx Hackathon.
+   Special Mention, Top 10 teams, RoboEx Hackathon by VIT. 
 
 ## Links to RoboEx Hacathon🔗
 * [Official Website](https://www.dreadnoughtrobotics.co.in/)
