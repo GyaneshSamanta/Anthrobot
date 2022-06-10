@@ -1,5 +1,13 @@
 # Team Anthrobot for RoboEx Hackathon🤖
+<<<<<<< HEAD
    Special Mention, Top 10 teams, RoboEx Hackathon by VIT. 
+=======
+
+## Top 10 Teams at RoboEx Hackathon by VIT 2020
+
+
+   Official Entry of Team Anthrobot, from SRM Institute of Science and Technology, Kattankulathur, to RoboEx Hackathon.
+>>>>>>> 674c2c4cb3e533ee765091ce864520d67414d6e8
 
 ## Links to RoboEx Hacathon🔗
 * [Official Website](https://www.dreadnoughtrobotics.co.in/)
